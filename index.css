@@ -1,0 +1,83 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    color: #333;
+}
+
+header {
+    background-color: #262626;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header img {
+    max-width: 100px;
+}
+
+.album {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #262626;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+album:hover {
+    transform: scale(1.1);
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-img {
+    width: 200%;
+}
+.album img {
+    margin-left: 550px;
+    max-width: 200px;
+}
+
+.album p {
+    text-align: center;
+}
+.discografia {
+    background-color: #CCC;
+}
+.discografia h2 {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ .R {
+ text-align: center;   
+}
+.So{
+    text-align: center;
+}
+.biografia h2 {
+text-align: center;
+}
+.videos-musicas h2{
+    text-align: center;
+}
+.datas-turne{
+    text-align: center;
+}
